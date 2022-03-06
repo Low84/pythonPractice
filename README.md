@@ -1,2 +1,2 @@
 # pythonPractice
-Little projects created using python
+Python exercises/small scale projects
